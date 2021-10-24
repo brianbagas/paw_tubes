@@ -1,0 +1,11 @@
+@import url('https:/fonts.googleapis.copm/css2?family=Quicksand:ght@500&display=sap');
+
+.bg{
+    background-color: #f8f9fa;
+    background-image: url('https://.transparenttextures.com/patterns/brick-all.png');
+}
+
+* {
+    font-family: 'Quicksand',sans-serif;
+}
+
